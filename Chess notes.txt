@@ -1,0 +1,40 @@
+helpful link
+https://stackoverflow.com/questions/4795349/how-to-serialize-a-class-with-an-interface/9550086#9550086
+
+work on = android 5 and above
+
+inreased volume of android emulator during demonstration
+
+00 01 02 03 04
+10 11 12 13 14
+20 21 22 23 24
+30 31 32 33 34
+
+Avaialble move=convert to integer
+1) Error = 00 position consider as 0
+
+
+
+logic left
+. timer in milisecond from 20 like this 00:19.9
+
+// now on setup a game board
+
+
+jdk - 11.0.10
+GSOn - 6.0.6
+
+Version changes 
+
+Android 9 and below:
+ string.split("") {"",1,2}
+ undo and redo logic not working
+
+Android 10 and above:
+ string.split("") {1,2}
+
+shortcut android studio
+
+1)collapse method  :	ctr+shift+'+'+'-'
+
+// on undo instead of revive piece move  original piece move is shown 

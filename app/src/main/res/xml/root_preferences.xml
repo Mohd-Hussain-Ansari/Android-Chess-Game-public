@@ -1,0 +1,31 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+    <SwitchPreferenceCompat
+        app:key="@string/undo_and_redo_move"
+        app:title="@string/undo_and_redo_move"
+        app:defaultValue="true"/>
+
+    <SwitchPreferenceCompat
+        app:key="@string/show_valid_piece_move"
+        app:title="@string/show_valid_piece_move"
+        app:defaultValue="true"/>
+
+    <SwitchPreferenceCompat
+        app:key="@string/show_last_moved_piece"
+        app:title="@string/show_last_moved_piece"
+        app:defaultValue="true"/>
+
+    <SwitchPreferenceCompat
+        app:key="@string/change_settings"
+        app:title="@string/change_settings"
+        app:defaultValue="true"/>
+
+    <SwitchPreferenceCompat
+        app:key="@string/sound"
+        app:title="Sound"
+        app:defaultValue="true"/>
+
+
+</PreferenceScreen>

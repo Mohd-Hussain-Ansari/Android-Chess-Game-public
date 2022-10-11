@@ -1,0 +1,112 @@
+<resources>
+    <string name="app_name">Chess</string>
+    <string name="player1">Player1</string>
+    <string name="player2">Player2</string>
+    <string name="reset_board">Rematch</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="save_game">Save Game</string>
+    <string name="resign">Resign</string>
+    <string name="options">Options</string>
+    <string name="undo">Undo</string>
+    <string name="redo">Redo</string>
+    <string name="no_saved_game">There are no saved games…</string>
+    <string name="pass_and_play">Pass and Play</string>
+    <string name="load_saved_game">Load Saved Game</string>
+    <string name="settings">Settings</string>
+    <string name="start_match">Start Match</string>
+    <string name="player1_image">player1 Image</string>
+    <string name="player_name">Player Name</string>
+    <string name="player2_image">player2 Image</string>
+    <string name="vs">Vs</string>
+    <string name="game_timer">Game Timer</string>
+    <string name="math_setting_header">Match Settings</string>
+    <string name="custom_timer_limit_hint">Time Limit</string>
+    <string name="show_valid_piece_move">Show valid piece move</string>
+    <string name="show_last_moved_piece">Show last moved piece</string>
+    <string name="sound">Sound</string>
+    <string name="save_settings">Save Settings</string>
+    <string name="game_settings_header">Game Settings</string>
+    <string name="undo_and_redo_move">Undo and redo move</string>
+    <string name="saveEmailTemporary">email</string>
+    <string name="no_device_connected">No device connected</string>
+    <string name="host_a_game">Host A Game</string>
+    <string name="join_a_game">Join A Game</string>
+    <string name="no_device_found">No Device found</string>
+    <string name="draw">Draw</string>
+    <string name="play_with_computer">Play With Computer</string>
+    <string name="computer">Computer</string>
+    <string name="white">White</string>
+    <string name="black">Black</string>
+    <string name="random">Random</string>
+
+
+    <string-array name="timer_menu">
+        <item>None</item>
+        <item>5 min</item>
+        <item>10 min</item>
+        <item>15 min</item>
+        <item>30 min</item>
+        <item>Custom</item>
+    </string-array>
+
+    <string-array name="select_piece_menu">
+        <item>@string/white</item>
+        <item>@string/black</item>
+        <item>@string/random</item>
+    </string-array>
+
+    <string-array name="timer_menu_wifi_direct">
+        <item>None</item>
+        <item>5 min</item>
+        <item>10 min</item>
+        <item>15 min</item>
+        <item>30 min</item>
+    </string-array>
+    <string name="title_activity_computer_settings">ComputerSettingsActivity</string>
+
+    <string name="select_piece">Select Piece</string>
+    <string name="change_settings">Change settings when game start</string>
+    <string name="none">None</string>
+    <string name="play_online">Play Online</string>
+    <string name="internet_connection_error">You don\'t have internet connection</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="profile_info">Profile Info</string>
+    <string name="username">username</string>
+    <string name="winCount">"Win"</string>
+    <string name="lostCount">Lost</string>
+    <string name="matchCount">Match Played</string>
+    <string name="winRate">Win Rate</string>
+    <string name="lostRate">Lost Rate</string>
+    <string name="play_with_friend">Play with friend</string>
+    <string name="play_with_other">Play with Other</string>
+    <string name="create_a_room">Create a room</string>
+    <string name="join_a_room">Join A Room</string>
+    <string name="delete_room">Delete Room</string>
+    <string name="opponent_name">Opponent name</string>
+    <string name="not_join_yet">Not join yet</string>
+    <string name="room_id">Room ID</string>
+    <string name="password">Password</string>
+    <string name="room_details">Room Details</string>
+    <string name="play_offline">Play Offline</string>
+    <string name="drawCount">Draw</string>
+    <string name="editPlayerName">Edit player name</string>
+    <string name="win">win</string>
+    <string name="lost">Lost</string>
+    <string name="logout">Log Out</string>
+    <string name="delete_account">Delete Account</string>
+</resources>

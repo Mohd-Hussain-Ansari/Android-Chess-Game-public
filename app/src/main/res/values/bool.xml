@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="show_available_move"> true</bool>
+    <bool name="show_last_move"> true</bool>
+    <bool name="sound"> true</bool>
+    <bool name="undo_redo_move"> true</bool>
+    <bool name="change_settings"> true</bool>
+</resources>

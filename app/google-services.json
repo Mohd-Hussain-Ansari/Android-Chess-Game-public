@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "416998829369",
+    "firebase_url": "https://chess-328cb-default-rtdb.firebaseio.com",
+    "project_id": "chess-328cb",
+    "storage_bucket": "chess-328cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416998829369:android:75349bbaf869cf176f4ce8",
+        "android_client_info": {
+          "package_name": "com.hussain.chess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416998829369-1slv2lpsusptl9g9nvmm2rhkrqh4ufn9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hussain.chess",
+            "certificate_hash": "f302795796a805ad5608045d2cb1f37f3f0a8ccc"
+          }
+        },
+        {
+          "client_id": "416998829369-jqkl4qiuar0kcr6fjddm9nnqolki21e1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJOzIkzUhXbTWS4Ml2sg_IBrJqDMHlbgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416998829369-jqkl4qiuar0kcr6fjddm9nnqolki21e1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
