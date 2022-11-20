@@ -1,0 +1,8 @@
+CREATE TABLE "EntityGameSettings" (
+	"id"	INTEGER PRIMARY KEY NOT NULL,
+	"available_move"	INTEGER NOT NULL,
+	"last_move"	INTEGER NOT NULL,
+	"Sound"	INTEGER NOT NULL,
+	"undo_redo_move"INTEGER NOT NULL
+);
+insert into EntityGameSettings VALUES(1,1,1,1,1)
